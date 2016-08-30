@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: uxa_sam_msgs;version="1.0.0";uses:="org.ros.internal.m
+ essage"
+Bundle-Version: 1.0.0
+Tool: Bnd-2.1.0.20130426-122213
+Bundle-Name: uxa_sam_msgs
+Bnd-LastModified: 1472449310000
+Created-By: 1.7.0_60 (Oracle Corporation)
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.ros.rosjava_messages.uxa_sam_msgs
+Import-Package: org.ros.internal.message
+

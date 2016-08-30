@@ -1,0 +1,4 @@
+uint8 samid
+---
+uint8 data1
+uint8 data2
